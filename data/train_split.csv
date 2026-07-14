@@ -1,0 +1,481 @@
+ticket_id,text,true_tag,label
+374,Please process a refund for the order I returned last week.,Refund & Cancellation,6
+498,"Your customer service hung up on me twice today, this is unacceptable.",Complaint,3
+111,I'm getting a 500 error every time I open the desktop software.,Technical Issue,9
+326,"I received the wrong item in my order, I ordered a different API service.",Shipping & Delivery,7
+248,I found a bug where deleting an item duplicates it instead.,Bug Report,2
+253,Dates are displaying incorrectly on the API service.,Bug Report,2
+346,Delivery status hasn't changed from 'processing' for 3 days.,Shipping & Delivery,7
+569,How do I switch from the monthly to the annual premium account plan?,Subscription Management,8
+426,What are the working hours for your customer support team?,General Inquiry,5
+179,I can't log into my account even after resetting my password.,Account Access,0
+553,I want to add a second user seat to my current plan.,Subscription Management,8
+62,The web dashboard keeps freezing whenever I try to save my work.,Technical Issue,9
+291,The search bar on the mobile app returns no results even for valid queries.,Bug Report,2
+414,I want to cancel my desktop software and get a refund for this month.,Refund & Cancellation,6
+432,Where can I find documentation for the subscription plan?,General Inquiry,5
+105,The subscription plan is extremely slow and unresponsive today.,Technical Issue,9
+320,Delivery status hasn't changed from 'processing' for 7 days.,Shipping & Delivery,7
+523,"Your customer service hung up on me twice today, this is unacceptable.",Complaint,3
+445,What are the working hours for your customer support team?,General Inquiry,5
+175,Two-factor authentication isn't sending me a code to sign in.,Account Access,0
+544,How do I downgrade my mobile app subscription?,Subscription Management,8
+146,Two-factor authentication isn't sending me a code to sign in.,Account Access,0
+199,Can you add a bulk-edit option to the mobile app?,Feature Request,4
+423,Where can I find documentation for the API service?,General Inquiry,5
+502,"Your customer service hung up on me twice today, this is unacceptable.",Complaint,3
+239,Can you add a bulk-edit option to the API service?,Feature Request,4
+383,I was charged after I already cancelled my premium account.,Refund & Cancellation,6
+268,The mobile app crashes every time I try to upload a file.,Bug Report,2
+313,Delivery status hasn't changed from 'processing' for 7 days.,Shipping & Delivery,7
+395,How do I cancel my subscription before the next billing cycle?,Refund & Cancellation,6
+527,I'm really unhappy with the quality of support I've received so far.,Complaint,3
+71,Nothing loads on the checkout page since the latest update.,Technical Issue,9
+541,How do I switch from the monthly to the annual subscription plan plan?,Subscription Management,8
+259,The search bar on the notification settings returns no results even for valid queries.,Bug Report,2
+470,What are the working hours for your customer support team?,General Inquiry,5
+120,I'm getting a 500 error every time I open the API service.,Technical Issue,9
+289,Dates are displaying incorrectly on the mobile app.,Bug Report,2
+534,I'm really unhappy with the quality of support I've received so far.,Complaint,3
+210,Please consider adding multi-language support to the desktop software.,Feature Request,4
+297,Dates are displaying incorrectly on the notification settings.,Bug Report,2
+420,I was charged after I already cancelled my subscription plan.,Refund & Cancellation,6
+256,Dates are displaying incorrectly on the web dashboard.,Bug Report,2
+74,The web dashboard is extremely slow and unresponsive today.,Technical Issue,9
+572,I want to add a second user seat to my current plan.,Subscription Management,8
+38,Can you clarify why my invoice this month is higher than usual?,Billing & Payments,1
+43,My credit card was billed twice for the same subscription plan order this month.,Billing & Payments,1
+87,The desktop software is extremely slow and unresponsive today.,Technical Issue,9
+23,There's an unrecognized charge of $139 on my statement from your company.,Billing & Payments,1
+144,"It says my account is locked, but I don't know why.",Account Access,0
+24,My credit card was billed twice for the same API service order this month.,Billing & Payments,1
+455,What are the working hours for your customer support team?,General Inquiry,5
+399,I was charged after I already cancelled my subscription plan.,Refund & Cancellation,6
+119,The premium account is extremely slow and unresponsive today.,Technical Issue,9
+386,I was charged after I already cancelled my subscription plan.,Refund & Cancellation,6
+19,"I was charged $38 but my plan should only cost $24, please explain.",Billing & Payments,1
+51,There's an unrecognized charge of $50 on my statement from your company.,Billing & Payments,1
+305,My order was supposed to arrive 4 days ago and there's no tracking update.,Shipping & Delivery,7
+511,This is the third time I'm contacting you about the same notification settings issue.,Complaint,3
+551,I want to add a second user seat to my current plan.,Subscription Management,8
+446,Where can I find documentation for the API service?,General Inquiry,5
+276,Dates are displaying incorrectly on the desktop software.,Bug Report,2
+164,Two-factor authentication isn't sending me a code to sign in.,Account Access,0
+76,The notification settings is extremely slow and unresponsive today.,Technical Issue,9
+167,"It says my account is locked, but I don't know why.",Account Access,0
+590,How do I switch from the monthly to the annual notification settings plan?,Subscription Management,8
+235,It would be great if the desktop software supported exporting to Excel.,Feature Request,4
+353,The package I received was damaged during shipping.,Shipping & Delivery,7
+376,I was charged after I already cancelled my checkout page.,Refund & Cancellation,6
+373,How do I cancel my subscription before the next billing cycle?,Refund & Cancellation,6
+236,Can you add a bulk-edit option to the API service?,Feature Request,4
+350,Delivery status hasn't changed from 'processing' for 6 days.,Shipping & Delivery,7
+545,How do I downgrade my mobile app subscription?,Subscription Management,8
+241,The premium account crashes every time I try to upload a file.,Bug Report,2
+97,I'm getting a 500 error every time I open the mobile app.,Technical Issue,9
+220,Can you add a bulk-edit option to the API service?,Feature Request,4
+473,What are the working hours for your customer support team?,General Inquiry,5
+324,"I received the wrong item in my order, I ordered a different premium account.",Shipping & Delivery,7
+452,How do I upgrade from the free plan to premium?,General Inquiry,5
+32,"I was charged $27 but my plan should only cost $9, please explain.",Billing & Payments,1
+515,I'm really unhappy with the quality of support I've received so far.,Complaint,3
+116,The mobile app is extremely slow and unresponsive today.,Technical Issue,9
+560,Can I pause my subscription for a couple of months?,Subscription Management,8
+15,Can you clarify why my invoice this month is higher than usual?,Billing & Payments,1
+433,What are the working hours for your customer support team?,General Inquiry,5
+98,The API service is extremely slow and unresponsive today.,Technical Issue,9
+528,I'm really unhappy with the quality of support I've received so far.,Complaint,3
+229,Would it be possible to add dark mode to the checkout page?,Feature Request,4
+215,Would it be possible to add dark mode to the premium account?,Feature Request,4
+31,"I was charged $160 but my plan should only cost $33, please explain.",Billing & Payments,1
+249,I found a bug where deleting an item duplicates it instead.,Bug Report,2
+494,This is the third time I'm contacting you about the same desktop software issue.,Complaint,3
+118,Nothing loads on the checkout page since the latest update.,Technical Issue,9
+439,Do you offer student discounts on the notification settings?,General Inquiry,5
+468,How do I upgrade from the free plan to premium?,General Inquiry,5
+274,The mobile app crashes every time I try to upload a file.,Bug Report,2
+307,The package I received was damaged during shipping.,Shipping & Delivery,7
+73,The premium account is extremely slow and unresponsive today.,Technical Issue,9
+66,Nothing loads on the premium account since the latest update.,Technical Issue,9
+157,I forgot my username and the recovery email isn't reaching me.,Account Access,0
+130,I forgot my username and the recovery email isn't reaching me.,Account Access,0
+203,Please consider adding multi-language support to the checkout page.,Feature Request,4
+112,The API service is extremely slow and unresponsive today.,Technical Issue,9
+2,My credit card was billed twice for the same desktop software order this month.,Billing & Payments,1
+163,Two-factor authentication isn't sending me a code to sign in.,Account Access,0
+421,Do you offer student discounts on the checkout page?,General Inquiry,5
+277,The API service crashes every time I try to upload a file.,Bug Report,2
+255,I found a bug where deleting an item duplicates it instead.,Bug Report,2
+36,"I was charged $25 but my plan should only cost $56, please explain.",Billing & Payments,1
+409,How do I cancel my subscription before the next billing cycle?,Refund & Cancellation,6
+506,"Your customer service hung up on me twice today, this is unacceptable.",Complaint,3
+152,I forgot my username and the recovery email isn't reaching me.,Account Access,0
+332,"I received the wrong item in my order, I ordered a different subscription plan.",Shipping & Delivery,7
+269,The premium account crashes every time I try to upload a file.,Bug Report,2
+271,The notification settings crashes every time I try to upload a file.,Bug Report,2
+219,Please consider adding multi-language support to the checkout page.,Feature Request,4
+571,How do I downgrade my checkout page subscription?,Subscription Management,8
+457,Do you offer student discounts on the API service?,General Inquiry,5
+145,I forgot my username and the recovery email isn't reaching me.,Account Access,0
+542,How do I switch from the monthly to the annual premium account plan?,Subscription Management,8
+364,I was charged after I already cancelled my subscription plan.,Refund & Cancellation,6
+290,Dates are displaying incorrectly on the desktop software.,Bug Report,2
+263,The search bar on the desktop software returns no results even for valid queries.,Bug Report,2
+99,Nothing loads on the desktop software since the latest update.,Technical Issue,9
+29,My credit card was billed twice for the same premium account order this month.,Billing & Payments,1
+441,Do you offer student discounts on the checkout page?,General Inquiry,5
+57,Can you clarify why my invoice this month is higher than usual?,Billing & Payments,1
+520,I'm really unhappy with the quality of support I've received so far.,Complaint,3
+103,Nothing loads on the API service since the latest update.,Technical Issue,9
+405,I want to cancel my mobile app and get a refund for this month.,Refund & Cancellation,6
+244,The search bar on the web dashboard returns no results even for valid queries.,Bug Report,2
+81,The subscription plan is extremely slow and unresponsive today.,Technical Issue,9
+371,How do I cancel my subscription before the next billing cycle?,Refund & Cancellation,6
+532,I've been a loyal customer for years and this experience has been disappointing.,Complaint,3
+537,This is the third time I'm contacting you about the same API service issue.,Complaint,3
+242,I found a bug where deleting an item duplicates it instead.,Bug Report,2
+407,Please process a refund for the order I returned last week.,Refund & Cancellation,6
+64,The subscription plan is extremely slow and unresponsive today.,Technical Issue,9
+540,I'm really unhappy with the quality of support I've received so far.,Complaint,3
+438,Do you offer student discounts on the web dashboard?,General Inquiry,5
+58,My credit card was billed twice for the same mobile app order this month.,Billing & Payments,1
+477,Do you offer student discounts on the web dashboard?,General Inquiry,5
+35,"I was charged $100 but my plan should only cost $59, please explain.",Billing & Payments,1
+447,How do I upgrade from the free plan to premium?,General Inquiry,5
+177,"It says my account is locked, but I don't know why.",Account Access,0
+377,Please process a refund for the order I returned last week.,Refund & Cancellation,6
+344,"I received the wrong item in my order, I ordered a different web dashboard.",Shipping & Delivery,7
+212,Would it be possible to add dark mode to the checkout page?,Feature Request,4
+54,There's an unrecognized charge of $193 on my statement from your company.,Billing & Payments,1
+480,How do I upgrade from the free plan to premium?,General Inquiry,5
+380,I want to cancel my checkout page and get a refund for this month.,Refund & Cancellation,6
+522,"Your customer service hung up on me twice today, this is unacceptable.",Complaint,3
+379,I want to cancel my notification settings and get a refund for this month.,Refund & Cancellation,6
+136,I can't log into my account even after resetting my password.,Account Access,0
+458,How do I upgrade from the free plan to premium?,General Inquiry,5
+151,I can't log into my account even after resetting my password.,Account Access,0
+150,"It says my account is locked, but I don't know why.",Account Access,0
+100,Nothing loads on the subscription plan since the latest update.,Technical Issue,9
+204,Would it be possible to add dark mode to the desktop software?,Feature Request,4
+585,I want to add a second user seat to my current plan.,Subscription Management,8
+171,Two-factor authentication isn't sending me a code to sign in.,Account Access,0
+107,Nothing loads on the desktop software since the latest update.,Technical Issue,9
+201,Can you add a bulk-edit option to the desktop software?,Feature Request,4
+510,This is the third time I'm contacting you about the same desktop software issue.,Complaint,3
+388,I was charged after I already cancelled my subscription plan.,Refund & Cancellation,6
+389,I was charged after I already cancelled my API service.,Refund & Cancellation,6
+113,The subscription plan is extremely slow and unresponsive today.,Technical Issue,9
+298,The premium account crashes every time I try to upload a file.,Bug Report,2
+196,It would be great if the subscription plan supported exporting to Excel.,Feature Request,4
+588,How do I downgrade my checkout page subscription?,Subscription Management,8
+309,My order was supposed to arrive 6 days ago and there's no tracking update.,Shipping & Delivery,7
+331,My order was supposed to arrive 2 days ago and there's no tracking update.,Shipping & Delivery,7
+294,The web dashboard crashes every time I try to upload a file.,Bug Report,2
+514,"Your customer service hung up on me twice today, this is unacceptable.",Complaint,3
+400,I was charged after I already cancelled my notification settings.,Refund & Cancellation,6
+285,Dates are displaying incorrectly on the premium account.,Bug Report,2
+190,It would be great if the checkout page supported exporting to Excel.,Feature Request,4
+181,It would be great if the premium account supported exporting to Excel.,Feature Request,4
+128,"It says my account is locked, but I don't know why.",Account Access,0
+526,I'm really unhappy with the quality of support I've received so far.,Complaint,3
+449,How do I upgrade from the free plan to premium?,General Inquiry,5
+202,Can you add a bulk-edit option to the notification settings?,Feature Request,4
+135,I can't log into my account even after resetting my password.,Account Access,0
+416,I want to cancel my premium account and get a refund for this month.,Refund & Cancellation,6
+257,I found a bug where deleting an item duplicates it instead.,Bug Report,2
+21,"I was charged $184 but my plan should only cost $73, please explain.",Billing & Payments,1
+59,Can you clarify why my invoice this month is higher than usual?,Billing & Payments,1
+281,Dates are displaying incorrectly on the premium account.,Bug Report,2
+78,I'm getting a 500 error every time I open the premium account.,Technical Issue,9
+178,I can't log into my account even after resetting my password.,Account Access,0
+26,My credit card was billed twice for the same mobile app order this month.,Billing & Payments,1
+469,Do you offer student discounts on the notification settings?,General Inquiry,5
+124,I can't log into my account even after resetting my password.,Account Access,0
+558,How do I switch from the monthly to the annual subscription plan plan?,Subscription Management,8
+372,I want to cancel my premium account and get a refund for this month.,Refund & Cancellation,6
+453,Do you offer student discounts on the API service?,General Inquiry,5
+392,I want to cancel my subscription plan and get a refund for this month.,Refund & Cancellation,6
+319,Delivery status hasn't changed from 'processing' for 3 days.,Shipping & Delivery,7
+301,The package I received was damaged during shipping.,Shipping & Delivery,7
+425,What are the working hours for your customer support team?,General Inquiry,5
+413,I want to cancel my mobile app and get a refund for this month.,Refund & Cancellation,6
+597,How do I switch from the monthly to the annual web dashboard plan?,Subscription Management,8
+357,My order was supposed to arrive 7 days ago and there's no tracking update.,Shipping & Delivery,7
+166,I can't log into my account even after resetting my password.,Account Access,0
+387,I want to cancel my checkout page and get a refund for this month.,Refund & Cancellation,6
+86,I'm getting a 500 error every time I open the premium account.,Technical Issue,9
+16,Can you clarify why my invoice this month is higher than usual?,Billing & Payments,1
+361,How do I cancel my subscription before the next billing cycle?,Refund & Cancellation,6
+176,I can't log into my account even after resetting my password.,Account Access,0
+63,Nothing loads on the web dashboard since the latest update.,Technical Issue,9
+384,I was charged after I already cancelled my notification settings.,Refund & Cancellation,6
+318,"I received the wrong item in my order, I ordered a different API service.",Shipping & Delivery,7
+1,"I was charged $199 but my plan should only cost $40, please explain.",Billing & Payments,1
+360,"I received the wrong item in my order, I ordered a different subscription plan.",Shipping & Delivery,7
+314,"I received the wrong item in my order, I ordered a different API service.",Shipping & Delivery,7
+55,Can you clarify why my invoice this month is higher than usual?,Billing & Payments,1
+531,I've been a loyal customer for years and this experience has been disappointing.,Complaint,3
+227,Can you add a bulk-edit option to the desktop software?,Feature Request,4
+22,"I was charged $121 but my plan should only cost $25, please explain.",Billing & Payments,1
+185,Can you add a bulk-edit option to the desktop software?,Feature Request,4
+91,The subscription plan keeps freezing whenever I try to save my work.,Technical Issue,9
+444,What are the working hours for your customer support team?,General Inquiry,5
+398,I was charged after I already cancelled my premium account.,Refund & Cancellation,6
+258,Dates are displaying incorrectly on the subscription plan.,Bug Report,2
+430,Do you offer student discounts on the desktop software?,General Inquiry,5
+311,"I received the wrong item in my order, I ordered a different notification settings.",Shipping & Delivery,7
+345,My order was supposed to arrive 2 days ago and there's no tracking update.,Shipping & Delivery,7
+429,Do you offer student discounts on the web dashboard?,General Inquiry,5
+198,Would it be possible to add dark mode to the mobile app?,Feature Request,4
+448,What are the working hours for your customer support team?,General Inquiry,5
+312,Delivery status hasn't changed from 'processing' for 4 days.,Shipping & Delivery,7
+507,This is the third time I'm contacting you about the same API service issue.,Complaint,3
+69,The desktop software is extremely slow and unresponsive today.,Technical Issue,9
+260,Dates are displaying incorrectly on the subscription plan.,Bug Report,2
+282,The API service crashes every time I try to upload a file.,Bug Report,2
+340,"I received the wrong item in my order, I ordered a different notification settings.",Shipping & Delivery,7
+147,I forgot my username and the recovery email isn't reaching me.,Account Access,0
+70,The checkout page keeps freezing whenever I try to save my work.,Technical Issue,9
+72,The premium account keeps freezing whenever I try to save my work.,Technical Issue,9
+461,Do you offer student discounts on the premium account?,General Inquiry,5
+546,I want to add a second user seat to my current plan.,Subscription Management,8
+410,How do I cancel my subscription before the next billing cycle?,Refund & Cancellation,6
+382,How do I cancel my subscription before the next billing cycle?,Refund & Cancellation,6
+415,Please process a refund for the order I returned last week.,Refund & Cancellation,6
+82,The subscription plan is extremely slow and unresponsive today.,Technical Issue,9
+184,Please consider adding multi-language support to the API service.,Feature Request,4
+60,There's an unrecognized charge of $184 on my statement from your company.,Billing & Payments,1
+156,Two-factor authentication isn't sending me a code to sign in.,Account Access,0
+93,I'm getting a 500 error every time I open the notification settings.,Technical Issue,9
+402,I want to cancel my mobile app and get a refund for this month.,Refund & Cancellation,6
+509,I'm really unhappy with the quality of support I've received so far.,Complaint,3
+264,The search bar on the mobile app returns no results even for valid queries.,Bug Report,2
+566,Can I pause my subscription for a couple of months?,Subscription Management,8
+596,How do I downgrade my premium account subscription?,Subscription Management,8
+561,How do I switch from the monthly to the annual API service plan?,Subscription Management,8
+44,There's an unrecognized charge of $22 on my statement from your company.,Billing & Payments,1
+401,Please process a refund for the order I returned last week.,Refund & Cancellation,6
+252,The search bar on the API service returns no results even for valid queries.,Bug Report,2
+428,What are the working hours for your customer support team?,General Inquiry,5
+160,I forgot my username and the recovery email isn't reaching me.,Account Access,0
+495,I've been a loyal customer for years and this experience has been disappointing.,Complaint,3
+460,How do I upgrade from the free plan to premium?,General Inquiry,5
+406,I want to cancel my premium account and get a refund for this month.,Refund & Cancellation,6
+209,Please consider adding multi-language support to the API service.,Feature Request,4
+336,The package I received was damaged during shipping.,Shipping & Delivery,7
+339,The package I received was damaged during shipping.,Shipping & Delivery,7
+279,I found a bug where deleting an item duplicates it instead.,Bug Report,2
+13,My credit card was billed twice for the same subscription plan order this month.,Billing & Payments,1
+34,Can you clarify why my invoice this month is higher than usual?,Billing & Payments,1
+343,"I received the wrong item in my order, I ordered a different notification settings.",Shipping & Delivery,7
+224,Would it be possible to add dark mode to the premium account?,Feature Request,4
+478,Where can I find documentation for the notification settings?,General Inquiry,5
+243,The search bar on the mobile app returns no results even for valid queries.,Bug Report,2
+582,How do I downgrade my desktop software subscription?,Subscription Management,8
+226,It would be great if the premium account supported exporting to Excel.,Feature Request,4
+230,Please consider adding multi-language support to the desktop software.,Feature Request,4
+356,Delivery status hasn't changed from 'processing' for 3 days.,Shipping & Delivery,7
+474,Do you offer student discounts on the web dashboard?,General Inquiry,5
+363,Please process a refund for the order I returned last week.,Refund & Cancellation,6
+273,The search bar on the web dashboard returns no results even for valid queries.,Bug Report,2
+491,I'm really unhappy with the quality of support I've received so far.,Complaint,3
+459,Where can I find documentation for the desktop software?,General Inquiry,5
+516,"Your customer service hung up on me twice today, this is unacceptable.",Complaint,3
+581,How do I switch from the monthly to the annual mobile app plan?,Subscription Management,8
+53,"I was charged $200 but my plan should only cost $75, please explain.",Billing & Payments,1
+37,My credit card was billed twice for the same subscription plan order this month.,Billing & Payments,1
+127,I can't log into my account even after resetting my password.,Account Access,0
+424,How do I upgrade from the free plan to premium?,General Inquiry,5
+182,Please consider adding multi-language support to the desktop software.,Feature Request,4
+80,The subscription plan is extremely slow and unresponsive today.,Technical Issue,9
+33,My credit card was billed twice for the same premium account order this month.,Billing & Payments,1
+348,The package I received was damaged during shipping.,Shipping & Delivery,7
+30,Can you clarify why my invoice this month is higher than usual?,Billing & Payments,1
+17,My credit card was billed twice for the same subscription plan order this month.,Billing & Payments,1
+341,My order was supposed to arrive 4 days ago and there's no tracking update.,Shipping & Delivery,7
+20,"I was charged $107 but my plan should only cost $81, please explain.",Billing & Payments,1
+564,Can I pause my subscription for a couple of months?,Subscription Management,8
+555,Can I pause my subscription for a couple of months?,Subscription Management,8
+104,Nothing loads on the desktop software since the latest update.,Technical Issue,9
+141,Two-factor authentication isn't sending me a code to sign in.,Account Access,0
+355,"I received the wrong item in my order, I ordered a different premium account.",Shipping & Delivery,7
+108,The notification settings is extremely slow and unresponsive today.,Technical Issue,9
+578,I want to add a second user seat to my current plan.,Subscription Management,8
+168,Two-factor authentication isn't sending me a code to sign in.,Account Access,0
+102,I'm getting a 500 error every time I open the notification settings.,Technical Issue,9
+280,I found a bug where deleting an item duplicates it instead.,Bug Report,2
+292,I found a bug where deleting an item duplicates it instead.,Bug Report,2
+381,I want to cancel my web dashboard and get a refund for this month.,Refund & Cancellation,6
+580,How do I downgrade my desktop software subscription?,Subscription Management,8
+576,How do I switch from the monthly to the annual checkout page plan?,Subscription Management,8
+10,"I was charged $179 but my plan should only cost $34, please explain.",Billing & Payments,1
+451,What are the working hours for your customer support team?,General Inquiry,5
+437,How do I upgrade from the free plan to premium?,General Inquiry,5
+481,I'm really unhappy with the quality of support I've received so far.,Complaint,3
+79,The subscription plan keeps freezing whenever I try to save my work.,Technical Issue,9
+329,"I received the wrong item in my order, I ordered a different web dashboard.",Shipping & Delivery,7
+96,The desktop software keeps freezing whenever I try to save my work.,Technical Issue,9
+47,Can you clarify why my invoice this month is higher than usual?,Billing & Payments,1
+385,I was charged after I already cancelled my checkout page.,Refund & Cancellation,6
+266,The API service crashes every time I try to upload a file.,Bug Report,2
+554,I want to add a second user seat to my current plan.,Subscription Management,8
+422,What are the working hours for your customer support team?,General Inquiry,5
+583,I want to add a second user seat to my current plan.,Subscription Management,8
+471,Where can I find documentation for the subscription plan?,General Inquiry,5
+547,Can I pause my subscription for a couple of months?,Subscription Management,8
+139,I forgot my username and the recovery email isn't reaching me.,Account Access,0
+358,My order was supposed to arrive 9 days ago and there's no tracking update.,Shipping & Delivery,7
+205,It would be great if the premium account supported exporting to Excel.,Feature Request,4
+467,Where can I find documentation for the notification settings?,General Inquiry,5
+45,"I was charged $57 but my plan should only cost $13, please explain.",Billing & Payments,1
+75,The premium account keeps freezing whenever I try to save my work.,Technical Issue,9
+169,I forgot my username and the recovery email isn't reaching me.,Account Access,0
+158,I forgot my username and the recovery email isn't reaching me.,Account Access,0
+187,Please consider adding multi-language support to the desktop software.,Feature Request,4
+335,Delivery status hasn't changed from 'processing' for 9 days.,Shipping & Delivery,7
+192,Please consider adding multi-language support to the subscription plan.,Feature Request,4
+216,Can you add a bulk-edit option to the mobile app?,Feature Request,4
+594,How do I switch from the monthly to the annual checkout page plan?,Subscription Management,8
+539,I'm really unhappy with the quality of support I've received so far.,Complaint,3
+217,Can you add a bulk-edit option to the mobile app?,Feature Request,4
+133,"It says my account is locked, but I don't know why.",Account Access,0
+550,How do I switch from the monthly to the annual checkout page plan?,Subscription Management,8
+131,I can't log into my account even after resetting my password.,Account Access,0
+513,I'm really unhappy with the quality of support I've received so far.,Complaint,3
+419,I was charged after I already cancelled my API service.,Refund & Cancellation,6
+117,I'm getting a 500 error every time I open the premium account.,Technical Issue,9
+573,How do I downgrade my desktop software subscription?,Subscription Management,8
+56,"I was charged $95 but my plan should only cost $21, please explain.",Billing & Payments,1
+584,I want to add a second user seat to my current plan.,Subscription Management,8
+548,How do I downgrade my checkout page subscription?,Subscription Management,8
+577,How do I switch from the monthly to the annual desktop software plan?,Subscription Management,8
+153,I forgot my username and the recovery email isn't reaching me.,Account Access,0
+492,I'm really unhappy with the quality of support I've received so far.,Complaint,3
+472,What are the working hours for your customer support team?,General Inquiry,5
+214,It would be great if the notification settings supported exporting to Excel.,Feature Request,4
+403,I want to cancel my web dashboard and get a refund for this month.,Refund & Cancellation,6
+142,Two-factor authentication isn't sending me a code to sign in.,Account Access,0
+101,I'm getting a 500 error every time I open the subscription plan.,Technical Issue,9
+475,How do I upgrade from the free plan to premium?,General Inquiry,5
+42,Can you clarify why my invoice this month is higher than usual?,Billing & Payments,1
+556,How do I switch from the monthly to the annual API service plan?,Subscription Management,8
+286,I found a bug where deleting an item duplicates it instead.,Bug Report,2
+140,Two-factor authentication isn't sending me a code to sign in.,Account Access,0
+391,Please process a refund for the order I returned last week.,Refund & Cancellation,6
+238,Would it be possible to add dark mode to the web dashboard?,Feature Request,4
+161,I can't log into my account even after resetting my password.,Account Access,0
+132,I can't log into my account even after resetting my password.,Account Access,0
+500,I've been a loyal customer for years and this experience has been disappointing.,Complaint,3
+233,Would it be possible to add dark mode to the subscription plan?,Feature Request,4
+489,I'm really unhappy with the quality of support I've received so far.,Complaint,3
+213,Can you add a bulk-edit option to the premium account?,Feature Request,4
+543,How do I downgrade my web dashboard subscription?,Subscription Management,8
+231,Please consider adding multi-language support to the premium account.,Feature Request,4
+232,It would be great if the notification settings supported exporting to Excel.,Feature Request,4
+302,Delivery status hasn't changed from 'processing' for 4 days.,Shipping & Delivery,7
+27,Can you clarify why my invoice this month is higher than usual?,Billing & Payments,1
+493,"Your customer service hung up on me twice today, this is unacceptable.",Complaint,3
+397,I want to cancel my subscription plan and get a refund for this month.,Refund & Cancellation,6
+600,I want to add a second user seat to my current plan.,Subscription Management,8
+352,"I received the wrong item in my order, I ordered a different notification settings.",Shipping & Delivery,7
+519,This is the third time I'm contacting you about the same API service issue.,Complaint,3
+586,How do I switch from the monthly to the annual web dashboard plan?,Subscription Management,8
+159,"It says my account is locked, but I don't know why.",Account Access,0
+570,I want to add a second user seat to my current plan.,Subscription Management,8
+275,I found a bug where deleting an item duplicates it instead.,Bug Report,2
+250,I found a bug where deleting an item duplicates it instead.,Bug Report,2
+412,I want to cancel my web dashboard and get a refund for this month.,Refund & Cancellation,6
+351,My order was supposed to arrive 3 days ago and there's no tracking update.,Shipping & Delivery,7
+483,"Your customer service hung up on me twice today, this is unacceptable.",Complaint,3
+485,I'm really unhappy with the quality of support I've received so far.,Complaint,3
+349,The package I received was damaged during shipping.,Shipping & Delivery,7
+587,I want to add a second user seat to my current plan.,Subscription Management,8
+137,I can't log into my account even after resetting my password.,Account Access,0
+327,My order was supposed to arrive 7 days ago and there's no tracking update.,Shipping & Delivery,7
+316,"I received the wrong item in my order, I ordered a different notification settings.",Shipping & Delivery,7
+375,Please process a refund for the order I returned last week.,Refund & Cancellation,6
+518,"Your customer service hung up on me twice today, this is unacceptable.",Complaint,3
+52,"I was charged $179 but my plan should only cost $18, please explain.",Billing & Payments,1
+565,Can I pause my subscription for a couple of months?,Subscription Management,8
+191,Can you add a bulk-edit option to the mobile app?,Feature Request,4
+427,How do I upgrade from the free plan to premium?,General Inquiry,5
+115,The notification settings is extremely slow and unresponsive today.,Technical Issue,9
+496,I've been a loyal customer for years and this experience has been disappointing.,Complaint,3
+267,The search bar on the web dashboard returns no results even for valid queries.,Bug Report,2
+68,The desktop software keeps freezing whenever I try to save my work.,Technical Issue,9
+172,Two-factor authentication isn't sending me a code to sign in.,Account Access,0
+347,My order was supposed to arrive 9 days ago and there's no tracking update.,Shipping & Delivery,7
+240,Please consider adding multi-language support to the premium account.,Feature Request,4
+39,Can you clarify why my invoice this month is higher than usual?,Billing & Payments,1
+486,This is the third time I'm contacting you about the same web dashboard issue.,Complaint,3
+525,This is the third time I'm contacting you about the same mobile app issue.,Complaint,3
+322,My order was supposed to arrive 6 days ago and there's no tracking update.,Shipping & Delivery,7
+436,How do I upgrade from the free plan to premium?,General Inquiry,5
+479,Where can I find documentation for the notification settings?,General Inquiry,5
+50,My credit card was billed twice for the same premium account order this month.,Billing & Payments,1
+378,I was charged after I already cancelled my mobile app.,Refund & Cancellation,6
+278,The search bar on the web dashboard returns no results even for valid queries.,Bug Report,2
+362,I want to cancel my premium account and get a refund for this month.,Refund & Cancellation,6
+200,Please consider adding multi-language support to the desktop software.,Feature Request,4
+418,I want to cancel my desktop software and get a refund for this month.,Refund & Cancellation,6
+517,I'm really unhappy with the quality of support I've received so far.,Complaint,3
+323,Delivery status hasn't changed from 'processing' for 2 days.,Shipping & Delivery,7
+393,Please process a refund for the order I returned last week.,Refund & Cancellation,6
+330,Delivery status hasn't changed from 'processing' for 7 days.,Shipping & Delivery,7
+299,Dates are displaying incorrectly on the desktop software.,Bug Report,2
+90,The checkout page is extremely slow and unresponsive today.,Technical Issue,9
+568,I want to add a second user seat to my current plan.,Subscription Management,8
+484,"Your customer service hung up on me twice today, this is unacceptable.",Complaint,3
+126,I forgot my username and the recovery email isn't reaching me.,Account Access,0
+125,I can't log into my account even after resetting my password.,Account Access,0
+193,Would it be possible to add dark mode to the checkout page?,Feature Request,4
+92,The mobile app is extremely slow and unresponsive today.,Technical Issue,9
+454,Where can I find documentation for the web dashboard?,General Inquiry,5
+562,I want to add a second user seat to my current plan.,Subscription Management,8
+501,I've been a loyal customer for years and this experience has been disappointing.,Complaint,3
+499,"Your customer service hung up on me twice today, this is unacceptable.",Complaint,3
+254,Dates are displaying incorrectly on the desktop software.,Bug Report,2
+533,I'm really unhappy with the quality of support I've received so far.,Complaint,3
+165,I can't log into my account even after resetting my password.,Account Access,0
+221,It would be great if the web dashboard supported exporting to Excel.,Feature Request,4
+442,Where can I find documentation for the checkout page?,General Inquiry,5
+563,How do I downgrade my API service subscription?,Subscription Management,8
+28,My credit card was billed twice for the same premium account order this month.,Billing & Payments,1
+148,I forgot my username and the recovery email isn't reaching me.,Account Access,0
+11,My credit card was billed twice for the same desktop software order this month.,Billing & Payments,1
+186,Can you add a bulk-edit option to the subscription plan?,Feature Request,4
+504,"Your customer service hung up on me twice today, this is unacceptable.",Complaint,3
+408,Please process a refund for the order I returned last week.,Refund & Cancellation,6
+188,Please consider adding multi-language support to the desktop software.,Feature Request,4
+208,Can you add a bulk-edit option to the notification settings?,Feature Request,4
+194,Would it be possible to add dark mode to the subscription plan?,Feature Request,4
+508,I've been a loyal customer for years and this experience has been disappointing.,Complaint,3
+287,The search bar on the API service returns no results even for valid queries.,Bug Report,2
+246,Dates are displaying incorrectly on the API service.,Bug Report,2
+94,The checkout page keeps freezing whenever I try to save my work.,Technical Issue,9
+559,How do I switch from the monthly to the annual API service plan?,Subscription Management,8
+579,How do I downgrade my notification settings subscription?,Subscription Management,8
+488,I'm really unhappy with the quality of support I've received so far.,Complaint,3
+122,I can't log into my account even after resetting my password.,Account Access,0
+530,I'm really unhappy with the quality of support I've received so far.,Complaint,3
+247,I found a bug where deleting an item duplicates it instead.,Bug Report,2
+162,"It says my account is locked, but I don't know why.",Account Access,0
+5,My credit card was billed twice for the same notification settings order this month.,Billing & Payments,1
+84,Nothing loads on the notification settings since the latest update.,Technical Issue,9
+512,This is the third time I'm contacting you about the same API service issue.,Complaint,3
+18,Can you clarify why my invoice this month is higher than usual?,Billing & Payments,1
+315,"I received the wrong item in my order, I ordered a different desktop software.",Shipping & Delivery,7
+77,I'm getting a 500 error every time I open the desktop software.,Technical Issue,9
+155,Two-factor authentication isn't sending me a code to sign in.,Account Access,0
+567,Can I pause my subscription for a couple of months?,Subscription Management,8
+265,The search bar on the desktop software returns no results even for valid queries.,Bug Report,2
+7,"I was charged $107 but my plan should only cost $17, please explain.",Billing & Payments,1
+354,The package I received was damaged during shipping.,Shipping & Delivery,7
+296,The search bar on the subscription plan returns no results even for valid queries.,Bug Report,2
+303,My order was supposed to arrive 10 days ago and there's no tracking update.,Shipping & Delivery,7
+310,Delivery status hasn't changed from 'processing' for 10 days.,Shipping & Delivery,7
+8,There's an unrecognized charge of $196 on my statement from your company.,Billing & Payments,1
+338,"I received the wrong item in my order, I ordered a different notification settings.",Shipping & Delivery,7
+228,It would be great if the checkout page supported exporting to Excel.,Feature Request,4
+197,Can you add a bulk-edit option to the web dashboard?,Feature Request,4
+466,Where can I find documentation for the notification settings?,General Inquiry,5

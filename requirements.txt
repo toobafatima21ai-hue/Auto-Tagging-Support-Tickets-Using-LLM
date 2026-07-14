@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+transformers
+torch
+datasets
+sentencepiece
+accelerate
+streamlit
+plotly
+ollama
+tqdm
